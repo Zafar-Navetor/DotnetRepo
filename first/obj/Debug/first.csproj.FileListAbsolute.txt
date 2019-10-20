@@ -1,0 +1,5 @@
+E:\DontNetProjects\first\first\bin\Debug\first.exe.config
+E:\DontNetProjects\first\first\bin\Debug\first.exe
+E:\DontNetProjects\first\first\bin\Debug\first.pdb
+E:\DontNetProjects\first\first\obj\Debug\first.exe
+E:\DontNetProjects\first\first\obj\Debug\first.pdb
